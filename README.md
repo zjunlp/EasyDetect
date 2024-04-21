@@ -11,6 +11,7 @@
   <a href="https://huggingface.co/datasets/openkg/MHaluBench">🤗Benchmark</a> •
   <a href="http://easydetect.openkg.cn/">🍎Demo</a> •
   <a href="#overview">🌟Overview</a> •
+  <a href="#modelzoo">🐧Model Zoo</a> •
   <a href="#installation">🔧Installation</a> •
   <a href="#quickstart">⏩Quickstart</a> •
   <a href="#citation">🚩Citation</a> 
