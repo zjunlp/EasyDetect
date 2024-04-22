@@ -28,7 +28,7 @@ class HalDetLLaVA:
     def __init__(self, model_path):
         self.model_path = model_path
         self.model_name = get_model_name_from_path(self.model_path)
-        self.tokenizer, self.model, self.image_processor, self.context_len = load_pretrained_model(self.model_path, None, self.model_name, device_map="auto", device="cuda")
+        self.tokenizer, self.model, self.image_processor, self.context_len = load_pretrained_model(self.model_path, None, self.model_name, device="cuda:0")
 
     def image_parser(self, image_file, sep):
         out = image_file.split(sep)
