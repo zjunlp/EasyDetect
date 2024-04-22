@@ -11,7 +11,7 @@
   <a href="https://huggingface.co/datasets/openkg/MHaluBench">🤗Benchmark</a> •
   <a href="http://easydetect.openkg.cn/">🍎Demo</a> •
   <a href="#overview">🌟Overview</a> •
-  <a href="#modelzoo">🐧Model Zoo</a> •
+  <a href="#modelzoo">🐧ModelZoo</a> •
   <a href="#installation">🔧Installation</a> •
   <a href="#quickstart">⏩Quickstart</a> •
   <a href="#citation">🚩Citation</a> 
@@ -32,7 +32,7 @@
   - <a href="#unified-multimodal-hallucination">Unified Multimodal Hallucination </a>
   - <a href="#dataset-mhallubench-statistic">Dataset: MHalluBench Statistic</a>
   - <a href="#framework-uniHD-illustration">Framework: UniHD Illustration</a>
-- <a href="#modelzoo">🐧Model Zoo</a>
+- <a href="#modelzoo">🐧ModelZoo</a>
 - <a href="#installation">🔧Installation</a>
 - <a href="#quickstart">⏩Quickstart</a>
 - <a href="#citation">🚩Citation</a>
@@ -109,7 +109,7 @@ Addressing the key challenges in hallucination detection, we introduce a unified
 
 ---
 
-## 🐧Model Zoo
+## 🐧ModelZoo
 You can download two versions of HalDet-LLaVA, 7b and 13b, on three platforms: HuggingFace, ModelScope, and WiseModel.
 | HuggingFace |  ModelScope |  WiseModel  |
 | ----------- | ----------- | ----------- |
