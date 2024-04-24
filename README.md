@@ -122,7 +122,7 @@ The claim level results on validation dataset
 - HalDet (LLAVA) means use LLAVA-v1.5 trained on our train datasets
 <table>
     <tr>
-        <td></td>
+        <td>task type</td>
         <td>model</td>
         <td>Acc</td>
         <td>Prec avg</td>
@@ -164,6 +164,42 @@ The claim level results on validation dataset
         <td>81.81</td>
         <td>81.52</td>
         <td>81.63</td>
+    </tr>
+    <tr>
+        <td rowspan="5">text-to-image</td>
+        <td>Self-Check 0shot (GPV-4V)</td>
+        <td>76.20</td>
+        <td>79.31</td>
+        <td>75.99</td>
+        <td>75.45</td>
+    </tr>
+    <tr>
+        <td>Self-Check 2shot (GPV-4V)</td>
+        <td>80.76</td>
+        <td>81.16</td>
+        <td>80.69</td>
+        <td>80.67</td>
+    </tr>
+    <tr>
+        <td>HalDet (LLAVA-7b)</td>
+        <td>67.35</td>
+        <td>69.31</td>
+        <td>67.50</td>
+        <td>66.62</td>
+    </tr>
+    <tr>
+        <td>HalDet (LLAVA-13b)</td>
+        <td>74.74/td>
+        <td>76.68</td>
+        <td>74.88</td>
+        <td>74.34</td>
+    </tr>
+    <tr>
+        <td>UniHD(GPT-4V)</td>
+        <td>85.82</td>
+        <td>85.83</td>
+        <td>85.83</td>
+        <td>85.82</td>
     </tr>
 </table>
 
