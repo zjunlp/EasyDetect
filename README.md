@@ -116,6 +116,57 @@ You can download two versions of HalDet-LLaVA, 7b and 13b, on three platforms: H
 | [HalDet-llava-7b](https://huggingface.co/zjunlp/HalDet-llava-7b)     | [HalDet-llava-7b](https://www.modelscope.cn/models/ZJUNLP/HalDet-llava-7b)       | [HalDet-llava-7b](https://www.wisemodel.cn/models/zjunlp/HalDet-llava-7b)       |
 | [HalDet-llava-13b](https://huggingface.co/zjunlp/HalDet-llava-13b)   | [HalDet-llava-13b](https://www.modelscope.cn/models/ZJUNLP/HalDet-llava-13b)        | [HalDet-llava-13b](https://www.wisemodel.cn/models/zjunlp/HalDet-llava-13b)      |
 
+The claim level results on validation dataset
+- Self-Check(GPT-4V) means use GPT-4V with 0 or 2 cases
+- UniHD(GPT-4V) means use GPT4V with 2-shot and tool information
+- HalDet (LLAVA) means use LLAVA-v1.5 trained on our train datasets
+<table>
+    <tr>
+        <td></td>
+        <td>model</td>
+        <td>Acc</td>
+        <td>Prec avg</td>
+        <td>Recall avg</td>
+        <td>Mac.F1</td>
+    </tr>
+    <tr>
+        <td rowspan="5">image-to-text</td>
+        <td>Self-Check 0shot (GPV-4V)</td>
+        <td>75.09</td> 
+        <td>74.94</td>
+        <td>75.19</td>
+        <td>74.97</td>
+    </tr>
+    <tr>
+        <td>Self-Check 2shot (GPV-4V)</td>
+        <td>79.25</td>
+        <td>79.02</td>
+        <td>79.16</td>
+        <td>79.08</td>
+    </tr>
+    <tr>
+        <td>HalDet (LLAVA-7b)</td>
+        <td>75.02</td>
+        <td>75.05</td>
+        <td>74.18</td>
+        <td>74.38</td>
+    </tr>
+    <tr>
+        <td>HalDet (LLAVA-13b)</td>
+        <td>78.16</td>
+        <td>78.18</td>
+        <td>77.48</td>
+        <td>77.69</td>
+    </tr>
+    <tr>
+        <td>UniHD(GPT-4V)</td>
+        <td>81.91</td>
+        <td>81.81</td>
+        <td>81.52</td>
+        <td>81.63</td>
+    </tr>
+</table>
+
 To view more detailed information about HalDet-LLaVA and the train dataset, please refer to the [readme](https://github.com/zjunlp/EasyDetect/blob/main/HalDet-LLaVA/README.md).
 
 ## 🔧Installation
