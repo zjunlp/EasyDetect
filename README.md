@@ -116,7 +116,7 @@ You can download two versions of HalDet-LLaVA, 7b and 13b, on three platforms: H
 | [HalDet-llava-7b](https://huggingface.co/zjunlp/HalDet-llava-7b)     | [HalDet-llava-7b](https://www.modelscope.cn/models/ZJUNLP/HalDet-llava-7b)       | [HalDet-llava-7b](https://www.wisemodel.cn/models/zjunlp/HalDet-llava-7b)       |
 | [HalDet-llava-13b](https://huggingface.co/zjunlp/HalDet-llava-13b)   | [HalDet-llava-13b](https://www.modelscope.cn/models/ZJUNLP/HalDet-llava-13b)        | [HalDet-llava-13b](https://www.wisemodel.cn/models/zjunlp/HalDet-llava-13b)      |
 
-To view more detailed information about HalDet-LLaVA, please refer to the [readme](https://github.com/zjunlp/EasyDetect/blob/main/HalDet-LLaVA/README.md).
+To view more detailed information about HalDet-LLaVA and the train dataset, please refer to the [readme](https://github.com/zjunlp/EasyDetect/blob/main/HalDet-LLaVA/README.md).
 
 ## 🔧Installation
 
