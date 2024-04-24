@@ -173,7 +173,7 @@ To view more detailed information about HalDet-LLaVA and the train dataset, plea
 
 **Installation for local development:**
 ```
-git clone https://github.com/OpenKG-ORG/EasyDetect.git
+git clone https://github.com/zjunlp/EasyDetect.git
 cd EasyDetect
 pip install -r requirements.txt
 ```
