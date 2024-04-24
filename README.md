@@ -189,7 +189,7 @@ The claim level results on validation dataset
     </tr>
     <tr>
         <td>HalDet (LLAVA-13b)</td>
-        <td>74.74/td>
+        <td>74.74</td>
         <td>76.68</td>
         <td>74.88</td>
         <td>74.34</td>
