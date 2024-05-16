@@ -118,7 +118,7 @@ You can download two versions of HalDet-LLaVA, 7b and 13b, on three platforms: H
 
 The claim level results on validation dataset
 - Self-Check(GPT-4V) means use GPT-4V with 0 or 2 cases
-- UniHD(GPT-4V) means use GPT4V with 2-shot and tool information
+- UniHD(GPT-4V/GPT-4o) means use GPT-4V/GPT-4o with 2-shot and tool information
 - HalDet (LLAVA) means use LLAVA-v1.5 trained on our train datasets
 <table>
     <tr>
