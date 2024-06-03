@@ -48,7 +48,8 @@
 
 
 ## 📽️Demo Video
-![](figs/动图.mp4)
+
+<iframe src="figs/动图.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="472px"> </iframe>
 
 ## 🌻Acknowledgement
 
