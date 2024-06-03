@@ -48,7 +48,7 @@
 
 
 ## 📽️Demo Video
-<video controls height='100%' width='100%' src="figs/动图.mp4"></video>
+<video controls height='100%' width='100%' src="vqa.mp4"></video>
 
 ## 🌻Acknowledgement
 
