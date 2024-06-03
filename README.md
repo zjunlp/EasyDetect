@@ -48,7 +48,7 @@
 
 
 ## 📽️Demo Video
-<video src="figs/动图.mp4" type="video/mp4"></video>
+<video src="figs/动图.mp4"></video>
 
 
 ## 🌻Acknowledgement
