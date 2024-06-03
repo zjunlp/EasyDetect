@@ -48,8 +48,7 @@
 
 
 ## 📽️Demo Video
-<video src="figs/动图.mp4"></video>
-
+![](figs/动图.mp4)
 
 ## 🌻Acknowledgement
 
