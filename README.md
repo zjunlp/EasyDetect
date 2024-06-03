@@ -46,6 +46,14 @@
 - **2024-02-05  We release the paper:"[Unified Hallucination Detection for Multimodal Large Language Models](https://arxiv.org/abs/2402.03190)" with a new benchmark [MHaluBench](https://huggingface.co/datasets/openkg/MHaluBench)! We are looking forward to any comments or discussions on this topic :)**
 - **2023-10-20 The EasyDetect project has been launched and is under development.**
 
+
+## 📽️Demo Video
+<video width="640" height="360" controls muted>
+        <source src="/figs/动图.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+</video>
+
+
 ## 🌻Acknowledgement
 
 Part implementation of this project were assisted and inspired by the related hallucination toolkits including [FactTool](https://github.com/GAIR-NLP/factool), [Woodpecker](https://github.com/BradyFU/Woodpecker), and others. 
