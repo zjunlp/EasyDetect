@@ -49,8 +49,7 @@
 
 ## 📽️Demo Video
 <video width="640" height="360" controls muted>
-        <source src="/figs/动图.mp4" type="video/mp4">
-        Your browser does not support the video tag.
+  <source src="figs/动图.mp4" type="video/mp4">
 </video>
 
 
