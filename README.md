@@ -47,9 +47,6 @@
 - **2023-10-20 The EasyDetect project has been launched and is under development.**
 
 
-## 📽️Demo Video
-<video controls height='100%' width='100%' src="vqa.mp4"></video>
-
 ## 🌻Acknowledgement
 
 Part implementation of this project were assisted and inspired by the related hallucination toolkits including [FactTool](https://github.com/GAIR-NLP/factool), [Woodpecker](https://github.com/BradyFU/Woodpecker), and others. 
