@@ -340,19 +340,28 @@ Please cite our repository if you use EasyDetect in your work.
   biburl       = {https://dblp.org/rec/journals/corr/abs-2310-12086.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
-@article{chen24unihd,
-  author       = {Xiang Chen and Chenxi Wang and Yida Xue and Ningyu Zhang and Xiaoyan Yang and 
-                  Qiang Li and Yue Shen and Lei Liang and Jinjie Gu and Huajun Chen},
-  title        = {Unified Hallucination Detection for Multimodal Large Language Models},
-  journal      = {CoRR},
-  volume       = {abs/2402.03190},
-  year         = {2024},
-  url          = {https://doi.org/10.48550/arXiv.2402.03190},
-  doi          = {10.48550/ARXIV.2402.03190},
-  eprinttype    = {arXiv},
-  eprint       = {2402.03190},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2402-03190.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{chen-etal-2024-unified-hallucination,
+    title = "Unified Hallucination Detection for Multimodal Large Language Models",
+    author = "Chen, Xiang  and
+      Wang, Chenxi  and
+      Xue, Yida  and
+      Zhang, Ningyu  and
+      Yang, Xiaoyan  and
+      Li, Qiang  and
+      Shen, Yue  and
+      Liang, Lei  and
+      Gu, Jinjie  and
+      Chen, Huajun",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.178",
+    pages = "3235--3252",
 }
 ```
 
