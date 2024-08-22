@@ -4,7 +4,10 @@
 
 **An Easy-to-Use Multimodal Hallucination Detection Framework for MLLMs**
 
-$\color{red}{It's unfortunate that due to limited computational resources, we have suspended the online demo. If you'd like to try the demo, please contact sunnywcx@zju.edu.cn or zhangningyu@zju.edu.cn}$
+
+---
+$\color{red}{It\'s\  unfortunate\  that\  due\  to\  limited\  computational\  resources,\  we\  have\  suspended\  the\  online\  demo.}$
+$\color{red}{If\  you\'d\  like\  to\  try\  the\  demo,\  please\  contact\  sunnywcx \@zju.edu.cn\  or\  zhangningyu \@zju.edu.cn}$
 
 
 <p align="center">
