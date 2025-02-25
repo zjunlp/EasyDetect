@@ -230,6 +230,7 @@ To view more detailed information about HalDet-LLaVA and the train dataset, plea
 
 **Installation for local development:**
 ```
+conda create -n easydetect python=3.9.19
 git clone https://github.com/zjunlp/EasyDetect.git
 cd EasyDetect
 pip install -r requirements.txt
